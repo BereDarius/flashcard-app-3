@@ -39,12 +39,12 @@ To start the app, you'll need to start both the backend and frontend servers.
 ### Backend
 
 1. Navigate to the backend directory: `cd backend`
-2. Start the server: `yarn start:dev`
+2. Start the server: `yarn run start:dev`
 
 ### Frontend
 
 1. Navigate to the frontend directory: `cd frontend`
-2. Start the server: `yarn dev`
+2. Start the server: `yarn run dev`
 
 ## License
 
