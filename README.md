@@ -20,7 +20,7 @@ To run the flashcard app, you'll need to install the dependencies for both the b
 
 Before running the app, you'll need to configure the backend to connect to your Postgres database.
 
-1. Open the `backend/.env` file.
+1. Create `backend/.env` file.
 2. Update the following variables with your Postgres database connection details:
 
 - `POSTGRES_HOST`
