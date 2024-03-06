@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = /Users/beredarius/Desktop/flashcard-app/backend
+	url = https://github.com/BereDarius/flashcard-app-3-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = /Users/beredarius/Desktop/flashcard-app/frontend
+	url = https://github.com/BereDarius/flashcard-app-3-frontend.git
