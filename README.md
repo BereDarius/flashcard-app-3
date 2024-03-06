@@ -46,16 +46,6 @@ To start the app, you'll need to start both the backend and frontend servers.
 1. Navigate to the frontend directory: `cd frontend`
 2. Start the server: `yarn dev`
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the flashcard app, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/my-feature`
-3. Make your changes and commit them: `git commit -m "Add my feature"`
-4. Push your changes to the branch: `git push origin feature/my-feature`
-5. Open a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
